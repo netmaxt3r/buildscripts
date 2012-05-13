@@ -18,3 +18,4 @@ assert(package_extract_file("boot.img", "/tmp/boot.img"),
 
 unmount("/system");
 ui_print("Done.");
+ui_print(">> BYE ");
